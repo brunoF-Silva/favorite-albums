@@ -1,1 +1,7 @@
+# Python Compiled files
+**/__pycache__/
+*.pyc
+
+# git environments
 .venv/
+venv
